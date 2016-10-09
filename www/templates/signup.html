@@ -2,36 +2,31 @@
     <ion-content padding="true" class="has-header">
         <form id="signup-form2" class="list">
             <ion-list id="signup-list2">
-                <label class="item item-input" id="signup-input3">
-                    <span class="input-label">Name</span>
-                    <input type="text" placeholder="">
+                <label class="item item-input" id="signup-input3" name="email">
+                    <input type="email" placeholder="Email">
                 </label>
-                <label class="item item-input" id="signup-input4">
-                    <span class="input-label">Username</span>
-                    <input type="text" placeholder="">
+                <label class="item item-input" id="signup-input4" name="password">
+                    <input type="password" placeholder="Password">
                 </label>
-                <label class="item item-input" id="signup-input5">
-                    <span class="input-label">Password</span>
-                    <input type="password" placeholder="">
+                <label class="item item-input" id="signup-input5" name="name">
+                    <input type="text" placeholder="Name">
                 </label>
-                <label class="item item-input" id="signup-input11">
-                    <span class="input-label">Age</span>
-                    <input type="text" placeholder="">
+                <label class="item item-input" id="signup-input7" name="age">
+                    <input type="number" placeholder="Age">
                 </label>
-                <label class="item item-input" id="signup-input12">
-                    <span class="input-label">Height</span>
-                    <input type="text" placeholder="ex: 4 ft 9 inches">
+                <label class="item item-input" id="signup-input14">
+                    <input type="tel" placeholder="Phone Number">
                 </label>
             </ion-list>
+            <ion-item class="item-divider" id="signup-list-item-divider3"></ion-item>
+            <label class="item item-input" id="signup-input12" name="buddyName">
+                <input type="text" placeholder="Buddy Name">
+            </label>
             <label class="item item-input" id="signup-input13">
-                <span class="input-label">1st Buddy</span>
-                <input type="tel" placeholder="(123)-456-7890">
+                <input type="tel" placeholder="Buddy Phone Number">
             </label>
-            <label class="item item-input" id="signup-input14">
-                <span class="input-label">2nd Buddy</span>
-                <input type="tel" placeholder="(123)-456-7890">
-            </label>
-            <button id="signup-button3" class="button button-stable  button-block">Sign up</button>
+            <div class="spacer" style="width: 300px; height: 46px;"></div>
+            <a ui-sref="chooseYourRoute" id="signup-button3" class="button button-positive  button-block">Sign up</a>
         </form>
     </ion-content>
 </ion-view>

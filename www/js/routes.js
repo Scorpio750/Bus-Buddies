@@ -10,49 +10,37 @@ angular.module('app.routes', [])
     
   
 
-      .state('page1', {
-    url: '/page1',
-    templateUrl: 'templates/page1.html',
-    controller: 'page1Ctrl'
-  })
-
-  .state('login', {
-    url: '/page2',
+      .state('login', {
+    url: '/login',
     templateUrl: 'templates/login.html',
     controller: 'loginCtrl'
   })
 
   .state('signup', {
-    url: '/page3',
+    url: '/signup',
     templateUrl: 'templates/signup.html',
     controller: 'signupCtrl'
   })
 
-  .state('page4', {
-    url: '/page4',
-    templateUrl: 'templates/page4.html',
-    controller: 'page4Ctrl'
+  .state('chooseYourRoute', {
+    url: '/authSuccess',
+    templateUrl: 'templates/chooseYourRoute.html',
+    controller: 'chooseYourRouteCtrl'
   })
 
-  .state('page5', {
-    url: '/page5',
-    templateUrl: 'templates/page5.html',
-    controller: 'page5Ctrl'
+  .state('enroute', {
+    url: '/enroute',
+    templateUrl: 'templates/enroute.html',
+    controller: 'enrouteCtrl'
   })
 
-  .state('page6', {
-    url: '/page6',
-    templateUrl: 'templates/page6.html',
-    controller: 'page6Ctrl'
+  .state('tripComplete', {
+    url: '/complete',
+    templateUrl: 'templates/tripComplete.html',
+    controller: 'tripCompleteCtrl'
   })
 
-  .state('page', {
-    url: '/page7',
-    templateUrl: 'templates/page.html',
-    controller: 'pageCtrl'
-  })
-
-$urlRouterProvider.otherwise('/page1')
+$urlRouterProvider.otherwise('/login')
 
   
 

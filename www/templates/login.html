@@ -1,19 +1,20 @@
 <ion-view title="Login" id="page2">
-    <ion-content padding="true" scroll="false" class="has-header">
+    <ion-content padding="true" class="has-header">
         <form id="login-form1" class="list">
+            <div>
+                <img src="img/fGsbVdOkSQup0fGsqFXL_BusBuddies.png" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+            </div>
             <ion-list id="login-list1">
-                <label class="item item-input" id="login-input1">
-                    <span class="input-label">Username</span>
-                    <input type="text" placeholder="">
+                <label class="item item-input" id="login-input1" name="email">
+                    <input type="text" placeholder="Email">
                 </label>
-                <label class="item item-input" id="login-input2">
-                    <span class="input-label">Password</span>
-                    <input type="password" placeholder="">
+                <label class="item item-input" id="login-input2" name="password">
+                    <input type="password" placeholder="Password">
                 </label>
             </ion-list>
-            <div class="spacer" style="width: 300px; height: 24px;"></div>
-            <button id="login-button1" class="button button-stable  button-block">Log in</button>
-            <a href="#" onclick="window.open('/signup', '_system', 'location=yes'); return false;" id="login-button2" class="button button-positive  button-block button-clear">Or create an account</a>
+            <div class="spacer" style="height: 40px;"></div>
+            <a ui-sref="chooseYourRoute" id="login-button1" class="button button-stable  button-block">Log in</a>
+            <a ui-sref="signup" id="login-button2" class="button button-positive  button-block button-clear">Or create an account</a>
         </form>
     </ion-content>
 </ion-view>
