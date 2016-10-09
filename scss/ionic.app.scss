@@ -21,3 +21,11 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
 
+.pane {
+	background-color: floralwhite;
+}
+
+#intro-splash {
+	border: 5px solid black;
+	border-radius: 20px;
+}
