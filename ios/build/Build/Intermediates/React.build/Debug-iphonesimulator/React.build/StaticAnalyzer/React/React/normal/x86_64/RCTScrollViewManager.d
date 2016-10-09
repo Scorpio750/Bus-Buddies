@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTView.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTRootView.h

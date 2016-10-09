@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/fionaliu/Tech/Bus-Buddies/node_modules/react-native/React/Base/RCTErrorCustomizer.h
